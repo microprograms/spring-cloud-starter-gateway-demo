@@ -86,3 +86,43 @@
 ]}ServerList:org.springframework.cloud.netflix.ribbon.eureka.DomainExtractingServerList@5ca42e60
 2021-03-02 16:25:05.458  INFO 37273 --- [erListUpdater-0] c.netflix.config.ChainedDynamicProperty  : Flipping property: DEMO2.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647
 2021-03-02 16:28:24.784  INFO 37273 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-03-02 16:33:24.797  INFO 37273 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-03-02 16:38:24.808  INFO 37273 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-03-02 16:43:24.820  INFO 37273 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-03-02 16:48:24.835  INFO 37273 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-03-02 16:53:24.848  INFO 37273 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-03-02 16:58:24.860  INFO 37273 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-03-02 17:03:24.873  INFO 37273 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-03-02 17:08:40.254  INFO 37273 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-03-02 17:29:46.567  INFO 37273 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-03-02 17:34:46.578  INFO 37273 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-03-02 17:42:11.361  INFO 37273 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-03-02 17:47:11.301  INFO 37273 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-03-02 17:52:11.312  INFO 37273 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-03-02 17:57:11.322  INFO 37273 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-03-02 18:02:11.334  INFO 37273 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-03-02 18:07:11.346  INFO 37273 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-03-02 18:12:11.357  INFO 37273 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-03-02 18:17:11.368  INFO 37273 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-03-02 18:22:11.378  INFO 37273 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-03-02 18:27:11.388  INFO 37273 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-03-02 19:12:04.658  INFO 37273 --- [tbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_GATEWAY-DEMO/127.0.0.1:gateway-demo:5555:v1.0.0 - Re-registering apps/GATEWAY-DEMO
+2021-03-02 19:12:04.659  INFO 37273 --- [tbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_GATEWAY-DEMO/127.0.0.1:gateway-demo:5555:v1.0.0: registering service...
+2021-03-02 19:12:04.667  INFO 37273 --- [tbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_GATEWAY-DEMO/127.0.0.1:gateway-demo:5555:v1.0.0 - registration status: 204
+2021-03-02 23:10:18.452  INFO 37273 --- [tbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_GATEWAY-DEMO/127.0.0.1:gateway-demo:5555:v1.0.0 - Re-registering apps/GATEWAY-DEMO
+2021-03-02 23:10:18.464  INFO 37273 --- [tbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_GATEWAY-DEMO/127.0.0.1:gateway-demo:5555:v1.0.0: registering service...
+2021-03-02 23:10:18.517  INFO 37273 --- [tbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_GATEWAY-DEMO/127.0.0.1:gateway-demo:5555:v1.0.0 - registration status: 204
+2021-03-03 06:29:28.609  INFO 37273 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-03-03 09:30:01.751  INFO 37273 --- [tbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_GATEWAY-DEMO/127.0.0.1:gateway-demo:5555:v1.0.0 - Re-registering apps/GATEWAY-DEMO
+2021-03-03 09:30:01.758  INFO 37273 --- [tbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_GATEWAY-DEMO/127.0.0.1:gateway-demo:5555:v1.0.0: registering service...
+2021-03-03 09:30:01.787  INFO 37273 --- [tbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_GATEWAY-DEMO/127.0.0.1:gateway-demo:5555:v1.0.0 - registration status: 204
+2021-03-03 09:30:31.807  INFO 37273 --- [freshExecutor-0] com.netflix.discovery.DiscoveryClient    : Disable delta property : false
+2021-03-03 09:30:31.808  INFO 37273 --- [freshExecutor-0] com.netflix.discovery.DiscoveryClient    : Single vip registry refresh property : null
+2021-03-03 09:30:31.809  INFO 37273 --- [freshExecutor-0] com.netflix.discovery.DiscoveryClient    : Force full registry fetch : false
+2021-03-03 09:30:31.809  INFO 37273 --- [freshExecutor-0] com.netflix.discovery.DiscoveryClient    : Application is null : false
+2021-03-03 09:30:31.809  INFO 37273 --- [freshExecutor-0] com.netflix.discovery.DiscoveryClient    : Registered Applications size is zero : true
+2021-03-03 09:30:31.809  INFO 37273 --- [freshExecutor-0] com.netflix.discovery.DiscoveryClient    : Application version is -1: false
+2021-03-03 09:30:31.809  INFO 37273 --- [freshExecutor-0] com.netflix.discovery.DiscoveryClient    : Getting all instance registry info from the eureka server
+2021-03-03 09:30:31.817  INFO 37273 --- [freshExecutor-0] com.netflix.discovery.DiscoveryClient    : The response status is 200
+2021-03-03 09:43:59.834  INFO 37273 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2021-03-03 09:48:59.844  INFO 37273 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
